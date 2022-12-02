@@ -1,0 +1,5 @@
+# Debian ARM .deb package
+
+> sudo dpkg -i --force-overwrite rts.deb
+>
+> rts
